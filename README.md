@@ -40,7 +40,7 @@ plt.show()
 
 ### Results:
 
-![Visualization of Skill Demand for top Data Roles](3_Project\images\skill_demand_for_top_data_roles.png)
+![Visualization of Skill Demand for top Data Roles](3_Project/img/skill_demand_for_top_data_roles.png)
 
 ### Insights:
 
@@ -78,7 +78,7 @@ plt.show()
 
 ### Results
 
-![Trending Top Skills for Data Analysts in the USA](3_Project/images/trending_top_skill_for_data_analysts.png)
+![Trending Top Skills for Data Analysts in the USA](3_Project/img/trending_top_skill_for_data_analysts.png)
 
 ### Insights:
 
@@ -108,7 +108,7 @@ plt.show()
 
 ### Results
 
-![Salary Distribution for Data Jobs in the USA](3_Project/images/salary_distribution_for_top_data_science_positions_in_the_usa.png)
+![Salary Distribution for Data Jobs in the USA](3_Project/img/salary_distribution_for_top_data_science_positions_in_the_usa.png)
 
 ### Insights
 
@@ -154,7 +154,7 @@ plt.show()
 
 ### Results
 
-![Highest Paid Skills for Data Analysts in the USA](3_Project/images/top_highest_paid_skills_for_data_analyst.png)
+![Highest Paid Skills for Data Analysts in the USA](3_Project/img/top_highest_paid_skills_for_data_analyst.png)
 
 ### Visualize Data:
 
@@ -179,7 +179,7 @@ sns.scatterplot(
 
 ### Results
 
-![Most Optimal Skills for Data Analysts in the USA](3_Project/images/most_optimal_skills_for_data_analysts_in_the_usa.png)
+![Most Optimal Skills for Data Analysts in the USA](3_Project/img/most_optimal_skills_for_data_analysts_in_the_usa.png)
 
 ### Insights:
 
